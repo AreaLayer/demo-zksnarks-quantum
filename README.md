@@ -45,3 +45,7 @@ In a post-quantum scenario, McEliece could replace **Elliptic Curve Digital Sign
 #### Conclusion
 
 By integrating **McEliece**, a quantum-resistant signature scheme, with **zk-SNARKs**, P2P CoinJoin can provide both privacy and post-quantum security. This combination ensures that even in the face of quantum threats, participants can safely and privately conduct transactions on decentralized networks like Bitcoin. While there are challenges related to performance and adoption, this approach offers a viable path forward in securing financial transactions in a quantum world.
+
+## Roadmap
+
+- [ ] FOSS
